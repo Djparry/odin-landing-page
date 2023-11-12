@@ -1,4 +1,4 @@
-# Project Name
+# Odin landing page
 
 > One paragraph statement about the project.
 
